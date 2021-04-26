@@ -11,7 +11,7 @@ def inputdictionary():
 
 def merge_dictionary():
     result={**dict1, **dict2}
-    return result
+    print( result)
 
 def print_result(result):
     print("After merging the Dictionary")
