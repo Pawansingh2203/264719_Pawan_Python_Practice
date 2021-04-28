@@ -1,5 +1,5 @@
-# This is a sample Python script.
 from mergedict import *
+from calcpriceofpizza import *
 from convertltod import *
 from nextday import *
 from avbtostr import *
@@ -16,3 +16,4 @@ if __name__ == '__main__':
     convertltod()
     nextday()
     avbtostr()
+    caclcpriceofpizza()
