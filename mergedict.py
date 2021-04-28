@@ -13,6 +13,6 @@ def merge_dictionary():
     result={**dict1, **dict2}
     print( result)
 
-def print_result(result):
+def print_result():
     print("After merging the Dictionary")
     print(result)
